@@ -28,10 +28,10 @@
 5) Write Range Workbook (to fill the data table into Excel Sheet)
 
    
-
-
-   
 # Results
+
+ To watch the robot run and the results, [click here](https://drive.google.com/file/d/18AATNTOcax-Nqxo-4vLV9djU5p9aIB8Z/view?usp=sharing)
+
 # CONCLUSION
  * There is two types in studion(Modern design, Classic desgin)
  * The difference between get text and extraction data table that you can store data base in data table format.
